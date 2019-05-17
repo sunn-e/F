@@ -1,5 +1,10 @@
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sunn-e/F.svg"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed-raw/sunn-e/F.svg?style=plastic"> <img alt="GitHub" src="https://img.shields.io/github/license/sunn-e/F.svg">
+---
+
 # Project F
+
  A GitHub repo to keep track of our fallen meme gods. Press F in the chat bois.
+ 
 # Why though?
  
  Okay, so this idea came to me while browsing r/dankmemes. If you don't know this subreddit then this repo is not meant for you.
