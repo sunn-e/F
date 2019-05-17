@@ -19,3 +19,7 @@ You can support this project by contributing. No, seriously. I was late to the r
 # F
 
 Press F in comment of each PR to show your respect.
+
+# Special thanks
+
+Thanks to u/ForeverFusion for the encouragement.
